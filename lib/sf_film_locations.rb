@@ -1,4 +1,5 @@
 require "sf_film_locations/version"
+require 'unirest'
 
 module SfFilmLocations
   class Location
